@@ -1,0 +1,9 @@
+Configuration MyFirstConfiguration 
+{
+    Import -DscResource -ModuleName PsDesiredStateConfiguration
+    Node "Local host"
+    {
+        File helloworld
+        Destinationpath="
+    }
+}
