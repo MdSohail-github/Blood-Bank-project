@@ -49,7 +49,21 @@ The key features of the project comprise a welcoming page, a home page, donor an
 
 
 # Working Live Project Display:
-
+**Home**
+![Screenshot (56)](https://github.com/MdSohail-github/Blood-Bank-project/assets/126046626/89a85948-0c33-4a6f-ad48-d1c1aa8b1f52)
+![Screenshot (57)](https://github.com/MdSohail-github/Blood-Bank-project/assets/126046626/aa5482ba-5af1-49b9-8001-7c8561d6f88f)
+**Donor**
+![Screenshot (58)](https://github.com/MdSohail-github/Blood-Bank-project/assets/126046626/945d5ed9-fe77-48f3-b8a2-53392ba60fcb)
+![Screenshot (59)](https://github.com/MdSohail-github/Blood-Bank-project/assets/126046626/5252be60-5ed5-46fb-ab1a-bdc5a4fb7a1b)
+**Blood Availability**
+![Screenshot (60)](https://github.com/MdSohail-github/Blood-Bank-project/assets/126046626/6c9377be-7805-4c4a-832e-ebac23f76551)
+**Receiver**
+![Screenshot (61)](https://github.com/MdSohail-github/Blood-Bank-project/assets/126046626/cf22fe1c-34ec-4d07-bc20-75b9145bb978)
+![Screenshot (62)](https://github.com/MdSohail-github/Blood-Bank-project/assets/126046626/63cb26d2-cbd3-4a08-8743-21f1f3f86b1e)
+**About**
+![Screenshot (63)](https://github.com/MdSohail-github/Blood-Bank-project/assets/126046626/2d5322ef-507f-4450-8318-2d81377c0b80)
+**chatbot**
+![Screenshot (64)](https://github.com/MdSohail-github/Blood-Bank-project/assets/126046626/73aebe23-57c5-4042-86c2-0d8fc6b867a7)
 # Description 
 Here I am attaching the final working website's screenshot for the reference.
 
