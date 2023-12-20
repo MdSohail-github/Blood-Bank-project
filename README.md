@@ -41,7 +41,20 @@ The key features of the project comprise a welcoming page, a home page, donor an
 **Azure Chatbot :-** The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.
 
 # Screenshot’s:
+**Storage account**
 ![Screenshot (49)](https://github.com/MdSohail-github/Blood-Bank-project/assets/126046626/3c5acbc7-41ea-4dcb-a97c-68e6224720db)
+**Static Website**
+![Screenshot (50)](https://github.com/MdSohail-github/Blood-Bank-project/assets/126046626/c4735504-2f9f-46a3-8964-4561364582d4)
+**container**
+![Screenshot (51)](https://github.com/MdSohail-github/Blood-Bank-project/assets/126046626/4a432ddc-924d-4fc8-a240-bc4a94cd11c3)
+**Backup od Blob**
+![Screenshot (52)](https://github.com/MdSohail-github/Blood-Bank-project/assets/126046626/fcddbfda-3aa5-4a16-b4f9-c7387036cdea)
+**AI Chatbot**
+![Screenshot (53)](https://github.com/MdSohail-github/Blood-Bank-project/assets/126046626/40c31281-ee42-4b42-9f00-c36fa878fa48)
+![Screenshot (54)](https://github.com/MdSohail-github/Blood-Bank-project/assets/126046626/1aa710a5-3e5e-4786-bdae-c75d2f569c31)
+
+
+
 
 
 **Azure Static Website:-** Azure Static Website is a hosting service in Microsoft Azure designed for deploying and serving static web content. With features like global content delivery, automatic scaling, and seamless integration with Azure Storage, it provides a reliable and cost-effective solution for hosting HTML, CSS, and JavaScript-based websites with minimal configuration.
