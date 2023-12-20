@@ -3,10 +3,10 @@
 To save lives and to step forward for donating blood, let's join hands and take a stride together
 
  # Project Details
- 1. **Project Demo URL :**[]
+ 1. **Project Demo URL :**[https://blooddonation.z7.web.core.windows.net/Index.html]
  1. **Demo Video URL :**[]
- 1.  **GitHub Repository URL :**[]
- 1.  **Industry : Lifestyle and Technology**
+ 1.  **GitHub Repository URL :**[https://github.com/MdSohail-github/Blood-Bank-project]
+ 1.  **Industry :** Lifestyle and Technology
  
 # Azure services used:
 
