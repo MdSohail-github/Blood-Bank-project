@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Make a Blood Relation</title>
+        <link rel="HTML" href="Donor.html">
+         <link rel="HTML" href="Receiver.html">
+         <link rel="HTML" href="BloodAvailability.html">
+         <link rel="HTML" href="LifeSavers.html">
+         <link rel="HTML" href="About.html">
+         <link rel="HTML" href="Index.html">
+         <link rel="stylesheet" href="Styles.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+        <style>
+           
+        .container {
+            margin-top: 100px;
+        }
+        form {
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            font-weight: bold;
+        }
+        button {
+            width: 100%;
+            margin-top: 15px;
+        }
+
+        /* Table Styles */
+
+        /* Make the table responsive */
+        @media only screen and (max-width: 300px) {
+        table, thead, tbody, th, td {
+            display: block;
+        }
+
+        /* Hide table headers (but not display: none;, for accessibility) */
+        thead tr {
+            position: absolute;
+            top: -9999px;
+            left: -9999px;
+        }
+
+        tr {
+            border: 1px solid #ccc;
+        }
+
+        td {
+            /* Behave like a "row" */
+            border: none;
+            border-bottom: 1px solid #eee;
+            position: relative;
+            padding-left: 50%;
+        }
+
+        td:before {
+            /* Now like a table header */
+            position: absolute;
+            /* Top/left values mimic padding */
+            top: 6px;
+            left: 6px;
+            width: 45%;
+            padding-right: 10px;
+            white-space: nowrap;
+        }
+
+        /*
+        Label the data
+        */
+        td:nth-of-type(1):before { content: "Column 1"; }
+        td:nth-of-type(2):before { content: "Column 2"; }
+        td:nth-of-type(3):before { content: "Column 3"; }
+        }
+
+        /* Add some padding and a blue border */
+        table {
+        border-collapse: collapse;
+        width: 70%;
+        padding: 5px;
+        border: 1px solid rgb(121, 203, 245);
+        display: table;
+        margin-left: 15%;
+        }
+
+        /* Add some padding and a blue border to the table headers */
+        th {
+        border: 1px solid rgb(121, 203, 245);
+        padding: 10px;
+        background-color: #f2f2f2;
+        }
+
+        /* Add some padding to the table cells */
+        td {
+        border: 1px solid rgb(121, 203, 245);
+        padding: 10px;
+        }
+
+        </style>  
+     </head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-md bg-dark navbar-dark">
+        <a class="navbar-brand" href="#">Make A Blood Relation</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="collapsibleNavbar">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="Index.html">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="Donor.html">Donor</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="BloodAvailability.html">Blood Availability</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="Receiver.html">Reciever</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="About.html">About</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <!-- Table -->
+            <h2 style="margin-left: 15%; padding: 5px; margin-bottom: 10px;">Blood Giving and Recieving Details</h2>
+
+    <table>
+    <thead>
+        <tr>
+        <th>Names</th>
+        <th>Blood Group</th>
+        <th>No.of Units Donated</th>
+        <th>Email</th>
+        <th>Contact</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Aarif</td>
+            <td>B+</td>
+            <td>18</td>
+            <td>Aarif@gmail.com</td>
+            <td>91239875</td>
+        </tr>
+        <tr>
+            <td>Gershom</td>
+            <td>0-</td>
+            <td>14</td>
+            <td>Gershom@gmail.com</td>
+            <td>96070722</td>
+        </tr>
+        <tr>
+            <td>Ashok</td>
+            <td>B-</td>
+            <td>13</td>
+            <td>Ashok@gmail.com</td>
+            <td>96670702</td>
+        </tr>
+        <tr>
+            <td>Manoj</td>
+            <td>0+</td>
+            <td>12</td>
+            <td>Manoj@gmail.com</td>
+            <td>95577221</td>
+        </tr>
+        <tr>
+            <td>Shiva</td>
+            <td>0-</td>
+            <td>10</td>
+            <td>Shiva@gmail.com</td>
+            <td>93377221</td>
+        </tr>
+        <tr>
+            <td>Annapurna</td>
+            <td>A+</td>
+            <td>13</td>
+            <td>Annapurna@gmail.com</td>
+            <td>91234221</td>
+        </tr>
+        <tr>
+            <td>Chandrakala</td>
+            <td>AB-</td>
+            <td>11</td>
+            <td>chandrakala@gmail.com</td>
+            <td>98752321</td>
+        </tr>
+        <tr>
+            <td>Laxmi Narayana</td>
+            <td>B-</td>
+            <td>10</td>
+            <td>LaxmiNaryana@gmail.com</td>
+            <td>97845221</td>
+        </tr>
+        <tr>
+            <td>Nikitha</td>
+            <td>A-</td>
+            <td>10</td>
+            <td>Ala@gmail.com</td>
+            <td>90107720</td>
+        </tr>
+        <tr>
+            <td>Sohail</td>
+            <td>AB+</td>
+            <td>13</td>
+            <td>sohail@gmail.com</td>
+            <td>976047221</td>
+        </tr>
+        <tr>
+            <td>Chandu</td>
+            <td>AB-</td>
+            <td>13</td>
+            <td>chandu@gmail.com</td>
+            <td>976047221</td>
+        </tr>
+        <tr>
+            <td>Navya</td>
+            <td>AB-</td>
+            <td>11</td>
+            <td>Navya@gmail.com</td>
+            <td>976747220</td>
+        </tr>
+        <tr>
+            <td>E Thiru</td>
+            <td>AB+</td>
+            <td>11</td>
+            <td>E.thiru@gmail.com</td>
+            <td>97601721</td>
+        </tr>
+        <tr>
+            <td>Anush</td>
+            <td>B-</td>
+            <td>10</td>
+            <td>Anush@gmail.com</td>
+            <td>91614721</td>
+        </tr>
+        <tr>
+            <td>Vishal</td>
+            <td>B+</td>
+            <td>10</td>
+            <td>vishal@gmail.com</td>
+            <td>91604722</td>
+        </tr>
+    </tbody>
+    </table>
+</body>
+<footer style="margin-top: 20px;">
+    <div class="footer-content">
+        <div class="footer-section">
+            <h2>About</h2>
+            <p><a href="About.html">Information about the website.</a></p>
+        </div>
+        <div class="footer-section">
+            <h2>Address</h2>
+            <p>KPHB Phase-7</p>
+            <p>Hyderabad, Telangana, 500072</p>
+        </div>
+        <div class="footer-section">
+            <h2>Contact</h2>
+            <p>Email: MBR.Hyd@email.com</p>
+            <p>Phone: (91) 6555226451</p>
+        </div>
+        <div class="footer-section">
+            <h2>Social Media</h2>
+            <ul>
+                <li><a href="#">Facebook: MBR HYD</a></li>
+                <li><a href="#">Twitter: @MBR_HYD</a></li>
+                <li><a href="#">Instagram: MBR_HYD</a></li>
+                <li><a href="#">LinkedIn:MBR_HYD</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="copywrites">
+        <p>© 2023 Make A Blood Relation. All rights reserved.</p>
+    </div>
+</footer>
+
+
+</html>
