@@ -2,18 +2,20 @@
 
 To save lives and to step forward for donating blood, let's join hands and take a stride together
 
- 1 **Project Details:**
- 1 **Project Demo URL :**
- 1 **Demo Video URL :** GitHub Repository URL : Industry : Lifestyle and Technology
+ 1. **Project Details:**[]
+ 1. **Project Demo URL :**[]
+ 1. **Demo Video URL :**[]
+ 1.  **GitHub Repository URL :**[]
+ 1.  **Industry : Lifestyle and Technology**
  
 # Azure services used:
 
 
-Azure blob storage 
-Storage account
-Azure Backup service
-Azure ai services
-chatbot
+ 1. Azure blob storage 
+ 1. Storage account
+ 1. Azure Backup service
+ 1. Azure ai services
+ 1. chatbot
 
 # Problem statement:
  
