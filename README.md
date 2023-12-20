@@ -2,10 +2,9 @@
 
 To save lives and to step forward for donating blood, let's join hands and take a stride together
 
-**Project Details:**
-**Project Demo URL :**
-
-Demo Video URL : GitHub Repository URL : Industry : Lifestyle and Technology
+ 1 **Project Details:**
+ 1 **Project Demo URL :**
+ 1 **Demo Video URL :** GitHub Repository URL : Industry : Lifestyle and Technology
  
 # Azure services used:
 
