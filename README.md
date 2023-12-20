@@ -41,6 +41,8 @@ The key features of the project comprise a welcoming page, a home page, donor an
 **Azure Chatbot :-** The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.
 
 # Screenshot’s:
+![Screenshot (49)](https://github.com/MdSohail-github/Blood-Bank-project/assets/126046626/3c5acbc7-41ea-4dcb-a97c-68e6224720db)
+
 
 **Azure Static Website:-** Azure Static Website is a hosting service in Microsoft Azure designed for deploying and serving static web content. With features like global content delivery, automatic scaling, and seamless integration with Azure Storage, it provides a reliable and cost-effective solution for hosting HTML, CSS, and JavaScript-based websites with minimal configuration.
 **Azure Backup Service:-** Azure Backup Service in Microsoft Azure ensures data resilience with automated, scalable backup solutions. Supporting virtual machines, applications, and files, it offers features like long-term retention and geo-redundancy. This service enhances overall data protection, enabling efficient disaster recovery and secure backup management in the Azure cloud environment.
