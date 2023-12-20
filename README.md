@@ -1,9 +1,9 @@
-#Make a Blood-Relation:
+# Make a Blood-Relation:
 
 To save lives and to step forward for donating blood, let's join hands and take a stride together
 
-Project Details:
-Project Demo URL : 
+**Project Details:**
+**Project Demo URL :**
 
 Demo Video URL : GitHub Repository URL : Industry : Lifestyle and Technology
  
