@@ -55,6 +55,6 @@ Here I am attaching the final working website's screenshot for the reference.
 
 
 
-Final Project Statement:
+# Final Project Statement:
 
 The Blood Donation Project aims to establish a comprehensive system facilitating donor registration, appointment scheduling, and real-time inventory tracking. Utilizing a user-friendly interface, the project encourages donor engagement through notifications and updates, ultimately enhancing the efficiency of blood collection, storage, and distribution to meet critical healthcare needs
