@@ -52,6 +52,10 @@ The key features of the project comprise a welcoming page, a home page, donor an
 **AI Chatbot**
 ![Screenshot (53)](https://github.com/MdSohail-github/Blood-Bank-project/assets/126046626/40c31281-ee42-4b42-9f00-c36fa878fa48)
 ![Screenshot (54)](https://github.com/MdSohail-github/Blood-Bank-project/assets/126046626/1aa710a5-3e5e-4786-bdae-c75d2f569c31)
+**Resource Visualizer**
+![Screenshot (55)](https://github.com/MdSohail-github/Blood-Bank-project/assets/126046626/6bf3e4ba-c718-4e2d-9b86-805b9508530d)
+![Screenshot (56)](https://github.com/MdSohail-github/Blood-Bank-project/assets/126046626/c123d0a9-2a3c-4193-8444-a570a67964af)
+
 
 
 
