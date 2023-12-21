@@ -3,7 +3,7 @@
 To save lives and to step forward for donating blood, let's join hands and take a stride together
 
  # Project Details
- 1. **Project Demo URL :**[https://blooddonation.z7.web.core.windows.net/Index.html]
+ 1. **Project Demo URL :**https://blooddonation.z7.web.core.windows.net/Index.html
  1. **Demo Video URL :**[]
  1.  **GitHub Repository URL :**[https://github.com/MdSohail-github/Blood-Bank-project]
  1.  **Industry :** Lifestyle and Technology
@@ -66,6 +66,8 @@ The key features of the project comprise a welcoming page, a home page, donor an
 
 **Azure Chatbot:-** The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.
 
+# Description 
+Here I am attaching the final working website's screenshot for the reference.
 
 # Working Live Project Display:
 **Home**
@@ -83,8 +85,6 @@ The key features of the project comprise a welcoming page, a home page, donor an
 ![Screenshot (63)](https://github.com/MdSohail-github/Blood-Bank-project/assets/126046626/2d5322ef-507f-4450-8318-2d81377c0b80)
 **chatbot**
 ![Screenshot (64)](https://github.com/MdSohail-github/Blood-Bank-project/assets/126046626/73aebe23-57c5-4042-86c2-0d8fc6b867a7)
-# Description 
-Here I am attaching the final working website's screenshot for the reference.
 
 
 
