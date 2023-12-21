@@ -73,6 +73,7 @@ Here I am attaching the final working website's screenshot for the reference.
 **Home**
 ![Screenshot (56)](https://github.com/MdSohail-github/Blood-Bank-project/assets/126046626/89a85948-0c33-4a6f-ad48-d1c1aa8b1f52)
 ![Screenshot (57)](https://github.com/MdSohail-github/Blood-Bank-project/assets/126046626/aa5482ba-5af1-49b9-8001-7c8561d6f88f)
+https://cdn.examlounge.com/resources/images/PicsArt_11-12-12.14.54_(1)_009160654Y9H01.jpg
 **Donor**
 ![Screenshot (58)](https://github.com/MdSohail-github/Blood-Bank-project/assets/126046626/945d5ed9-fe77-48f3-b8a2-53392ba60fcb)
 ![Screenshot (59)](https://github.com/MdSohail-github/Blood-Bank-project/assets/126046626/5252be60-5ed5-46fb-ab1a-bdc5a4fb7a1b)
