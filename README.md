@@ -4,9 +4,9 @@ To save lives and to step forward for donating blood, let's join hands and take 
 
  # Project Details
  1. **Project Demo URL :**https://blooddonation.z7.web.core.windows.net/Index.html
- 1. **Demo Video URL :**[]
+ 1. **Demo Video URL :**https://youtu.be/3bZY28CbnMc
  1.  **GitHub Repository URL :**[https://github.com/MdSohail-github/Blood-Bank-project]
- 1.  **Industry :** Lifestyle and Technology
+ 1.  **Industry :** Health
  
 # Azure services used:
 
